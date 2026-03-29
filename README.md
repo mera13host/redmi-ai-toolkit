@@ -1,12 +1,8 @@
 
 ---
 
-## 📝 GitHub के लिए README.md (Hindi + English Mix - Optional)
 
-अगर आप चाहते हैं कि README हिंदी और अंग्रेजी दोनों में हो, तो यह टेम्पलेट उपयोग कर सकते हैं:
-
-```markdown
-# REDMI Project - Complete AI/ML Toolkit
+# Complete AI/ML Toolkit
 
 > A comprehensive Python toolkit for AI/ML, PDF processing, image editing, video/audio processing, translation, barcode generation, and web development.
 > 
